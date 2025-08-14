@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Quem somos?
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/foto-about.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+**Pachecos No Canada**  
+Somos uma família que vive em Winnipeg e compartilhamos nossas experiências pelo Instagram e YouTube.  
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Acreditamos que, embora uma mudança seja desafiadora, com informações corretas e buscando aproveitar ao máximo o lugar onde você está, tudo fica mais leve e tranquilo.  
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+Entre as nossas atividades favoritas está a **patinação no gelo** — adoramos explorar rinks, lagos congelados e tudo que o inverno canadense oferece para quem gosta de deslizar sobre o gelo.
