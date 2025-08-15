@@ -1,8 +1,8 @@
 title: "Pachecos no Canada"
 # email: wowthemesnet@gmail.com
 timezone: America/Winnipeg
-url: "https://pachecosnocanada.github.io"
-baseurl: ""
+url: "https://pkpacheco.github.io"
+baseurl: "/pachecosnocanada.github.io"
 theme: null
 permalink: "/:title/"
 logo: '/assets/images/logo_1.png'
