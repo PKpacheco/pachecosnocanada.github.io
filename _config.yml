@@ -8,7 +8,8 @@ permalink: "/:title/"
 logo: '/assets/images/logo_1.png'
 favicon: '/assets/images/favicon.ico'
 author: Paola Pacheco
-paginate: 6
+paginate: 12
+paginate_path: "/page:num/"
 disqus: ''
 locale: en_us
 lang: en_us
