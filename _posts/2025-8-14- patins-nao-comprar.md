@@ -3,7 +3,7 @@ layout: post
 title:  "Quais Patins Não Comprar?"
 author: paola_pacheco
 # categories: [ Jekyll, tutorial ]
-image: assets/images/patins-nao.png
+image: assets/images/post-banner/patins-nao.png
 ---
 ## Quais Patins Não Comprar?
 
@@ -30,3 +30,9 @@ Outro tipo nada recomendado são os **patins com tema** (personagens, cores cham
 
 🚫 Conclusão:  
 Esses modelos **apenas atrasam o aprendizado** e geram mais dificuldades.
+
+![Modelos Patins Nao 1]({{ '/assets/images/posts/patins-nao-comprar/1.png' | relative_url }})
+![Modelos Patins Nao 2]({{ '/assets/images/posts/patins-nao-comprar/2.png' | relative_url }})
+
+![Melhores Modelos Patins]({{ '/assets/images/posts/patins-comprar/2.png' | relative_url }})
+

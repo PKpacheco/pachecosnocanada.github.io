@@ -3,7 +3,7 @@ layout: post
 title:  "Public Skating"
 author: paola_pacheco
 # categories: [ Jekyll, tutorial ]
-image: assets/images/public-skating.png
+image: assets/images/post-banner/public-skating.png
 ---
 
 # Patinação é Repetição
@@ -94,4 +94,4 @@ Todos oferecem *public skating* e *stick and puck* (verificar horários).
 
 Da pra patinar todos os dias se olhar o calendario direitinho, sempre tem algo depois das 5h da tarde e final de semana de tarde/noite
 
-![Agenda de Public Skating — City of Winnipeg]({{ '/assets/images/public-skating-fall.png' | relative_url }})
+![Agenda de Public Skating — City of Winnipeg]({{ '/assets/images/posts/public-skating-fall.png' | relative_url }})

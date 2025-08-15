@@ -3,7 +3,7 @@ layout: post
 title:  "Meus patins"
 author: paola_pacheco
 # categories: [ Jekyll, tutorial ]
-image: assets/images/meus-patins.png
+image: assets/images/post-banner/meus-patins.png
 ---
 > Vou contar um pouco da minha trajetória com patins — o que funcionou, o que não funcionou — e deixar um guia direto para quem está escolhendo o primeiro (ou próximo) par.  
 > **Spoiler:** patinação é repetição, e patins bom é o que **encaixa no seu pé**.
@@ -22,7 +22,7 @@ image: assets/images/meus-patins.png
 - **Por que troquei:** básico demais quando iniciei **aulas de figure**.  
 - **Veredito:** **super recomendo** para quem está começando pelo **valor e conforto**.
 
-![Patins 1]({{ '/assets/images/patins/1.png' | relative_url }})
+![Patins 1]({{ '/assets/images/posts/patins/1.png' | relative_url }})
 
 ---
 
@@ -34,7 +34,7 @@ image: assets/images/meus-patins.png
 - **No gelo:** bom para aulas iniciais de figure; **lâmina estável**, controle ok.  
 - **Por que troquei:** achei **mole para saltar** e o ajuste não segurava meu tornozelo.  
 - **Veredito:** bom custo-benefício, mas **não ideal para pés finos** nem para quem já quer começar a saltar com suporte.
-![Patins 2]({{ '/assets/images/patins/2.png' | relative_url }})
+![Patins 2]({{ '/assets/images/posts/patins/2.png' | relative_url }})
 
 ---
 
@@ -50,7 +50,7 @@ image: assets/images/meus-patins.png
 - **Por que troquei:** desconforto + projeção para frente não combinaram comigo.  
 - **Veredito:** há quem **ame Jackson** — **funciona para muita gente**, mas **não casou com meu pé**.
 
-![Patins 3]({{ '/assets/images/patins/3.png' | relative_url }})
+![Patins 3]({{ '/assets/images/posts/patins/3.png' | relative_url }})
 
 
 ---
@@ -65,7 +65,7 @@ image: assets/images/meus-patins.png
 - **Por que troquei:** **não tinha suporte** suficiente para meus **saltos básicos** (waltz, bunny hop); dor no tornozelo apesar de tentar reforçar com **fita de hockey**.  
 - **Veredito:** o **mais confortável** que já tive, **mas** sem o suporte que eu precisava na época.
 
-![Patins 4]({{ '/assets/images/patins/4.png' | relative_url }})
+![Patins 4]({{ '/assets/images/posts/patins/4.png' | relative_url }})
 
 
 ---
@@ -82,7 +82,7 @@ image: assets/images/meus-patins.png
 - **Por que não ficou:** **ajuste frontal** (dedos) não funcionou para meu pé.  
 - **Lição cara:** depois de **heat molding** e **blade montada**, **não há devolução**. Lojas compram **usado** por valor baixo — **escolha com calma**.
 
-![Patins 5]({{ '/assets/images/patins/5.png' | relative_url }})
+![Patins 5]({{ '/assets/images/posts/patins/5.png' | relative_url }})
 
 
 ---
@@ -97,7 +97,7 @@ image: assets/images/meus-patins.png
 - **Amaciamento:** **7 meses** até ficar realmente confortável (blisters, calos e joanetes nesse período).  
 - **Veredito:** **encaixe excelente**; precisei de **paciência** para amaciar. **Ponto negativo:** por ser de **material sintético**, a bota não ficava confortável **sobre os tornozelos e joelhos**; eu precisava **forçar demais para conseguir dobrar os joelhos**.
 
-![Patins 6]({{ '/assets/images/patins/6.png' | relative_url }})
+![Patins 6]({{ '/assets/images/posts/patins/6.png' | relative_url }})
 
 
 ---
@@ -109,7 +109,7 @@ image: assets/images/meus-patins.png
 - **Sensação:** **sweet spot** bom para giros, mas com **rocker 8** (mais “reta”) senti **pouco impulso** nos saltos e **perdi consistência**.  
 - **Hipótese:** pela minha **altura (1,70 m)** e nível de saltos **intermediário**, lâminas **um pouco mais longas** e com rocker menos “flat” me ajudam.
 
-![Patins 7]({{ '/assets/images/patins/7.png' | relative_url }})
+![Patins 7]({{ '/assets/images/posts/patins/7.png' | relative_url }})
 
 
 ---
@@ -122,7 +122,7 @@ image: assets/images/meus-patins.png
 - **Escolha:** **mesmo ponto de giro** da anterior, mas **mais “rounded”** para **tocar menos o gelo** e **dar mais impulso**.  
 - **Resultado:** a **sensação de salto** voltou a evoluir — cada pessoa tem sua **preferência de rocker**; só dá para descobrir **testando**.
 
-![Patins 8]({{ '/assets/images/patins/8.png' | relative_url }})
+![Patins 8]({{ '/assets/images/posts/patins/8.png' | relative_url }})
 
 ---
 

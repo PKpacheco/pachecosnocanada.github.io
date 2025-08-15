@@ -3,7 +3,7 @@ layout: post
 title:  "Por onde comecar?"
 author: paola_pacheco
 # categories: [ Jekyll, tutorial ]
-image: assets/images/onde-comecar.png
+image: assets/images/post-banner/onde-comecar.png
 ---
 # Se você nunca patinou na vida, está no lugar certo
 
